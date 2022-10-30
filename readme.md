@@ -9,7 +9,7 @@ including intelligent cloth recommendation. There are already many programs recc
 <h3>1.3 objective </h3>
 <p>The purpose of this product is to recommend clothing options to user through virtual assistant. By comparing with big data, it will be able to tell different styles of clothing, and provide valuable suggestions according to local weather, users' mood, and their plans for the day. Temporarily, there are no similar products in the market yet.
 <h2>2. methodology</h2>
-![drawio](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/submarine.png)
+![drawio](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/draw.png)
 <h3>2.1 machine learning</h3>
 <h4>2.1.1 data</h4>
 <h5>format</h5>
