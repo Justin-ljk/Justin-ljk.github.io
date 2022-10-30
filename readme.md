@@ -25,4 +25,4 @@ including intelligent cloth recommendation. There are already many programs recc
 <h5>testingand training</h5>
 <p>call trian and test functions
 <p>predict outputs and show pictures
-![submarine](/Justin-ljk.github.io/submarine.png)
+![submarine](/Justin-ljk.github.io/submarine.png "Suvorov")
