@@ -7,7 +7,7 @@ Under this situation, many teenagers, especially girls, are entangled in the pro
 <p>Along side of the development of internet, online shopping had became more weel-rounded, 
 including intelligent cloth recommendation. There are already many programs reccomending clothes for buyers, but none of them can help to determine what to wear under given circumstances.</p>
 <h3>1.3 objective </h3>
-<p>The purpose of this product is to recommend clothing options to user through virtual assistant. By comparing with big data, it will be able to tell different styles of clothing, and provide valuable suggestions according to local weather, users' mood, and their plans for the day. Temporarily, there are no similar products in the market yet.
+<p>The purpose of this product is to recommend clothing options to user through virtual assistant. By comparing with big data, it will be able to tell different styles of clothing, and provide valuable suggestions according to local weather, users' mood, and their plans for the day. The clothing data is mianly collected from social medias, tracking messages and photos posted by stars that the user follow. Temporarily, there are no similar products in the market yet.
 <h2>2. methodology</h2>
 ![drawio](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/draw.png)
 <h3>2.1 machine learning</h3>
