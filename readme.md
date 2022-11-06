@@ -39,4 +39,18 @@ including intelligent cloth recommendation. There are already many programs recc
 <h5>testingand training</h5>
 <p>call trian and test functions
 <p>predict outputs and show pictures
+<h3>2.2 hardware</h3>
+<h3>2.1 software</h3>
+<h3>2.1 system</h3>
+<h3>2.1 testing</h3>
 
+<h2>3. Results and Discussion</h2>
+<h3>3.1 Results</h3>
+<h4>3.1.1 Data Collection</h4>
+<h4>3.1.1 Data analysis</h4>
+<h4>3.1.1 Recommendation</h4>
+<h3>3.2 Comparsion with Expectation</h3>
+
+<h2>4. Conclusion</h2>
+<h3>4.1 Does it reach my ultimate purpose</h3>
+<h3>4.2 Future Possibilities</h3>
