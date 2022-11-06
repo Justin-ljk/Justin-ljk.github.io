@@ -9,18 +9,21 @@ including intelligent cloth recommendation. There are already many programs recc
 <h3>1.3 objective </h3>
 <p>The purpose of this product is to recommend clothing options to user through virtual assistant. By comparing with big data, it will be able to tell different styles of clothing, and provide valuable suggestions according to local weather, users' mood, and their plans for the day. The clothing data is mianly collected from social medias, tracking messages and photos posted by stars that the user follow. Temporarily, there are no similar products in the market yet.
 <h2>2. methodology</h2>
+
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/draw.png)
+
 <h3>2.1 machine learning</h3>
 <h4>2.1.1 data</h4>
 <h5>format</h5>
 <p>the pictures provided in the dataset are in "ubyte" format, so it requires a program to interpret them and turn them into visually pictures of all kinds of clothes
 <h5>tags</h5>
 <p>the tags of different clothes are also included in the dataset, these tags are written in numbers, so it requires a program to correspond it with the language that we speak like "ankle boots"
+
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L001.jpg)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L002.jpg)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L003.jpg)
-![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L004.jpg)
-![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L005.jpg)
+![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L004.png)
+![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L005.png)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L006.jpg)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L007.jpg)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L008.jpg)
