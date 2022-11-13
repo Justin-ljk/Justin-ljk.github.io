@@ -42,8 +42,8 @@ including intelligent cloth recommendation. There are already many programs recc
 <p>it's expected that the prediction page will be able to not only recommend clothes, but also provide information about where clothes will be found.
   
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/18DB15C8-5E94-4c07-943A-A5E8C41AABF1.png)
+
 <h3>2.2 hardware</h3>
-<h3>2.1 software</h3>
 <h3>2.1 system</h3>
 <h3>2.1 testing</h3>
 
