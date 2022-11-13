@@ -44,16 +44,23 @@ including intelligent cloth recommendation. There are already many programs recc
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/18DB15C8-5E94-4c07-943A-A5E8C41AABF1.png)
 
 <h3>2.2 hardware</h3>
+<p>The building fo the hardware of many parts, the most important part is the virtual assistant. The virtual assistant is responsible for the interaction from acquiring specific information to the end of the whole process of recommending. There are also other parts including the microphone to analyse speaking and the computer used to collect data, ect.
 <h3>2.1 system</h3>
 <h3>2.1 testing</h3>
 
 <h2>3. Results and Discussion</h2>
 <h3>3.1 Results</h3>
 <h4>3.1.1 Data Collection</h4>
+Through the web crawler, the product will be able to collect (this much) data from (social medias), it can also (whatever function)
 <h4>3.1.1 Data analysis</h4>
+Using the AI we previously trained, the data collected from the social media will be analysised and sorted into many categories. (actual results) (errors?)
 <h4>3.1.1 Recommendation</h4>
+During the process of recommendation, the clothing that user already has or from a social media that the user follows will be valued higher than others. (actual results)
 <h3>3.2 Comparsion with Expectation</h3>
+<p>One thing I have expected but can't be realized yet is the automatic recording of the location of the clothes. This process involves detecing the taking out and putting in of every single cloth, which I hadn't think of an easy way to build yet.
 
 <h2>4. Conclusion</h2>
-<h3>4.1 Does it reach my ultimate purpose</h3>
+<h3>4.1 Does it reach my ultimate purpose?</h3>
+<p>I would ay that this project effectively achieved/didn't achiheve my ultimate purpose. It......through/because...... Compared with my purpose, 
 <h3>4.2 Future Possibilities</h3>
+<p>Though I'm satisfied with my current product, I believe much future improvements can be made. ......
