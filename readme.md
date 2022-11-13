@@ -11,6 +11,7 @@ including intelligent cloth recommendation. There are already many programs recc
 <h2>2. methodology</h2>
 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/draw.png)
+<p>Starting by asking the user what style of clothes they need, the product recommend clothes according to the tags given by the user. With respect to the expected weather and popular trend, recommendation will be made. If the user gives a negative feedback, then the product will re-recommend and avoid the tags marked as “dislike” in the future.
 
 <h3>2.1 machine learning</h3>
 <h4>2.1.1 data</h4>
@@ -36,8 +37,8 @@ including intelligent cloth recommendation. There are already many programs recc
 <p>build network model
 <h6>define optimizer, training and testing methods</h6>
 <p>every time after training, the program will calculate the errors made during training and the artificial intelligence will refine itself according to the optimizer
-<h5>testingand training</h5>
-<p>call trian and test functions
+<h5>testing and training</h5>
+<p>call train and test functions
 <p>predict outputs and show pictures
 <p>it's expected that the prediction page will be able to not only recommend clothes, but also provide information about where clothes will be found.
   
@@ -45,19 +46,18 @@ including intelligent cloth recommendation. There are already many programs recc
 
 <h3>2.2 hardware</h3>
 <p>The building fo the hardware of many parts, the most important part is the virtual assistant. The virtual assistant is responsible for the interaction from acquiring specific information to the end of the whole process of recommending. There are also other parts including the microphone to analyse speaking and the computer used to collect data, ect.
-<h3>2.1 system</h3>
-<h3>2.1 testing</h3>
+<h3>2.3 testing</h3>
 
 <h2>3. Results and Discussion</h2>
 <h3>3.1 Results</h3>
 <h4>3.1.1 Data Collection</h4>
-<p>Through the web crawler, the product will be able to collect (this much) data from (social medias), it can also (whatever function)
+<p>Through the web crawler, the product will be able to collect (this much) data from (social medias), it can also (whatever function).
 <h4>3.1.1 Data analysis</h4>
 <p>Using the AI we previously trained, the data collected from the social media will be analysised and sorted into many categories. (actual results) (errors?)
 <h4>3.1.1 Recommendation</h4>
 <p>During the process of recommendation, the clothing that user already has or from a social media that the user follows will be valued higher than others. (actual results)
 <h3>3.2 Comparsion with Expectation</h3>
-<p>One thing I have expected but can't be realized yet is the automatic recording of the location of the clothes. This process involves detecing the taking out and putting in of every single cloth, which I hadn't think of an easy way to build yet.
+<p>One thing I have expected but can't be realized yet is the automatic recording of the location of the clothes. This process involves detecing the taking out and putting in of every single cloth. I've done basic programming of this function, which includes the recording clothes input and searching for specific clothes. However,  I hadn't find the right hardware and match it with my programs yet.
 
 <h2>4. Conclusion</h2>
 <h3>4.1 Does it reach my ultimate purpose?</h3>
