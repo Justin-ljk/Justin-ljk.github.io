@@ -11,7 +11,7 @@ including intelligent cloth recommendation. There are already many programs recc
 <h2>2. methodology</h2>
 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/draw.png)
-<p>Starting by asking the user what style of clothes they need, the product recommend clothes according to the tags given by the user. With respect to the expected weather and popular trend, recommendation will be made. If the user gives a negative feedback, then the product will re-recommend and avoid the tags marked as “dislike” in the future.
+<p>The function starts by asking the user what style of clothes through python input function, the answers to this question will be stored. The product recommend clothes according to the tags given by the user. With respect to the expected weather and popular trend, recommendation will be made. If the user gives a negative feedback, then the product will re-recommend and avoid the tags marked as “dislike” in the future.
 
 <h3>2.1 machine learning</h3>
 <h4>2.1.1 data</h4>
