@@ -4,10 +4,10 @@
 <p>Nowadays, as internet became widespread among people, fashion is changing almost every second. 
 Under this situation, many teenagers, especially girls, are entangled in the problem of what to wear daily considering weather and their mood.</p>
 <h3>1.2 current approach</h3>
-<p>Along side of the development of internet, online shopping had became more weel-rounded, 
-including intelligent cloth recommendation. There are already many programs reccomending clothes for buyers, but none of them can help to determine what to wear under given circumstances.</p>
+<p>Along side of the development of internet, online shopping had became more well-rounded, 
+including intelligent cloth recommendation. There are already many programs reccomending clothes for buyers, but none of them can help to determine what to wear under given circumstances. Temporarily, there are no similar products in the market yet.</p>
 <h3>1.3 objective </h3>
-<p>The purpose of this product is to recommend clothing options to user through virtual assistant. By comparing with big data, it will be able to tell different styles of clothing, and provide valuable suggestions according to local weather, users' mood, and their plans for the day. The clothing data is mianly collected from social medias, tracking messages and photos posted by stars that the user follow. Temporarily, there are no similar products in the market yet.
+<p>The purpose of this product is to recommend clothing options to user through virtual assistant. By comparing with big data, it will be able to tell different styles of clothing, and provide valuable suggestions according to local weather, users' mood, and their plans for the day. The clothing data is mianly collected from social medias, tracking messages and photos posted by stars that the user follow.
 <h2>2. methodology</h2>
 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/draw.png)
@@ -51,11 +51,11 @@ including intelligent cloth recommendation. There are already many programs recc
 <h2>3. Results and Discussion</h2>
 <h3>3.1 Results</h3>
 <h4>3.1.1 Data Collection</h4>
-Through the web crawler, the product will be able to collect (this much) data from (social medias), it can also (whatever function)
+<p>Through the web crawler, the product will be able to collect (this much) data from (social medias), it can also (whatever function)
 <h4>3.1.1 Data analysis</h4>
-Using the AI we previously trained, the data collected from the social media will be analysised and sorted into many categories. (actual results) (errors?)
+<p>Using the AI we previously trained, the data collected from the social media will be analysised and sorted into many categories. (actual results) (errors?)
 <h4>3.1.1 Recommendation</h4>
-During the process of recommendation, the clothing that user already has or from a social media that the user follows will be valued higher than others. (actual results)
+<p>During the process of recommendation, the clothing that user already has or from a social media that the user follows will be valued higher than others. (actual results)
 <h3>3.2 Comparsion with Expectation</h3>
 <p>One thing I have expected but can't be realized yet is the automatic recording of the location of the clothes. This process involves detecing the taking out and putting in of every single cloth, which I hadn't think of an easy way to build yet.
 
