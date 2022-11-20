@@ -11,14 +11,16 @@ including intelligent cloth recommendation. There are already many programs recc
 <h2>2. methodology</h2>
 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/draw.png)
-<p>The program starts by asking the user what style of clothes through python input function, the answers to this question will be recorded and then corresponded to related clothes. The product recommend clothes according to the tags given by the user. The program will also record what clothes are already owned by the user thorugh python lists, these clothes will be more favored in the process of recommendation. With respect to the expected weather and popular trend, recommendation will be made. If the user gives a negative feedback, then the product will re-recommend by asking the user more details about the clothing wanted. The tags marked as “dislike” will be avoided in similar situations in the future.
+<p>The program starts by asking the user what style of clothes through python input function. The answer to these questions are typed in by the user and it will be recorded. Then the program recommend clothes that corresponds to the tags given by the user. The program will also record what clothes are already owned by the user thorugh python lists function and later transfer them into csv files. The clothes recorded will be more favored in the process of recommendation. With respect to the expected weather and popular trend, recommendation will be made. If the user gives a negative feedback, then the product will re-recommend by asking the user more details about the clothing wanted. The tags marked as “dislike” will be avoided in similar situations in the future.<p>
+  
+<p>First, the program imports the csv file used to store information about clothes and the 10 clothes pictures being tested. Then the pictures of the clothes are read and resized into a 800*800 square to later fit the recommendation page. Using 'input' function, we acquire necessary information including the style of the cloth and where it will be put from the user. The program will atomatically check if the storgae space is available for the cloth, if yes, an overview of the closets will be showed in the recommendation page and where the cloth is stored will be highlighted.
 
 <h3>2.1 machine learning</h3>
 <h4>2.1.1 data</h4>
 <h5>format</h5>
 <p>the pictures provided in the dataset are in "ubyte" format, so it requires a program to interpret them and turn them into visually pictures of all kinds of clothes
 <h5>tags</h5>
-<p>the tags of different clothes are also included in the dataset, these tags are written in numbers, so it requires a program to correspond it with the language that we speak like "ankle boots"
+<p>the tags of different clothes are also included in the dataset, these tags are written in codes, so it requires a program to "translate" it into everyday language that we speak like. For example, the word "ankle boots" corresponds to code...
 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L001.jpg)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L002.jpg)
