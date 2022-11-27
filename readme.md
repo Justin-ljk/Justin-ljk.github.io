@@ -7,7 +7,7 @@ Under this situation, many teenagers, especially girls, are entangled in the pro
 <p>Along side of the development of internet, online shopping had became more well-rounded, 
 including intelligent cloth recommendation. There are already many programs reccomending clothes for buyers, but none of them can help to determine what to wear under given circumstances. Temporarily, there are no similar products in the market yet.</p>
 <h3>1.3 objective </h3>
-<p>The purpose of this product is to recommend clothing options to user through virtual assistant. By comparing with big data, it will be able to tell different styles of clothing, and provide valuable suggestions according to local weather, users' mood, and their plans for the day. The clothing data is mianly collected from social medias, tracking messages and photos posted by stars that the user follow.
+<p>The purpose of this product is to recommend clothing options to user via virtual assistant. By comparing with big data, it will be able to tell different styles of clothing, and provide valuable suggestions according to local weather, users' mood, and their plans for the day. It is also expected that it can interact with other intelligent furnitures such as closets to provide information about where to find the recommended clothes. The clothing data is mianly collected from social medias, tracking messages and photos posted by stars that the user follow and the user's purchase history.
 <h2>2. methodology</h2>
 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/draw.png)
@@ -38,16 +38,17 @@ including intelligent cloth recommendation. There are already many programs recc
 <p>Import libraries and load the data downloaded
 <p>build network model
 <h6>define optimizer, training and testing methods</h6>
-<p>every time after training, the program will calculate the errors made during training and the artificial intelligence will refine itself according to the optimizer
+<p>every time after training, the program will count the number of errors made during training and the artificial intelligence will refine itself according to the optimizer
 <h5>testing and training</h5>
 <p>call train and test functions
 <p>predict outputs and show pictures
-<p>it's expected that the prediction page will be able to not only recommend clothes, but also provide information about where clothes will be found.
+
   
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/18DB15C8-5E94-4c07-943A-A5E8C41AABF1.png)
 
 <h3>2.2 hardware</h3>
-<p>The building fo the hardware of many parts, the most important part is the virtual assistant. The virtual assistant is responsible for the interaction from acquiring specific information to the end of the whole process of recommending. There are also other parts including the microphone to analyse speaking and the computer used to collect data, ect.
+<p>The building fo the hardware of many parts, the most important part is the virtual assistant. The virtual assistant is responsible for the interaction from acquiring specific information to the end of the whole process of recommending. There are also other parts including the microphone to analyse speaking and the computer used to collect data, ect.<p>
+<p>(a picture of the built hardware)<p>
 <h3>2.3 testing</h3>
 
 <h2>3. Results and Discussion</h2>
