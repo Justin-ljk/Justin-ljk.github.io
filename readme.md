@@ -20,7 +20,7 @@ including intelligent cloth recommendation. There are already many programs recc
 <h5>format</h5>
 <p>the pictures provided in the datasets are in "ubyte" format, so it requires a program to interpret them and turn them into visually pictures of clothes which can be distinguished and compared by the AI.
 <h5>tags</h5>
-<p>the tags of different clothes are also included in the dataset, these tags are written in codes, so it requires a program to "translate" them into everyday language that we speak like "ankle boots".
+<p>the tags of different clothes are also included in the dataset, these tags are written in codes, so it requires a program to "translate" them into everyday language that we speak like "ankle boots".<p>
 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L001.jpg)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L002.jpg)
