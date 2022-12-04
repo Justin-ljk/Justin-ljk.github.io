@@ -33,7 +33,7 @@ including intelligent cloth recommendation. There are already many programs recc
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L009.jpg)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L010.jpg)
 <p>the dataset consisted of two different subsets, training and testing, the function of them perfectly matched their names
-<h4>2.1.2 artificial intelligence</h4>
+<h4>2.1.2 AI engine prediction</h4>
 <h5>developing</h5>
 <p>Import libraries and load the data downloaded
 <p>build network model
@@ -51,6 +51,7 @@ including intelligent cloth recommendation. There are already many programs recc
 <p>(a picture of the built hardware)<p>
 <h3>2.3 Software</h3>
 <h4>2.3.1 UI</h4>
+
 <h3>2.4 Testing</h3>
 
 <h2>3. Results and Discussion</h2>
