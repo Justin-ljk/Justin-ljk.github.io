@@ -49,7 +49,9 @@ including intelligent cloth recommendation. There are already many programs recc
 <h3>2.2 hardware</h3>
 <p>The building fo the hardware of many parts, the most important part is the virtual assistant. The virtual assistant is responsible for the interaction from acquiring specific information to the end of the whole process of recommending. There are also other parts including the microphone to analyse speaking and the computer used to collect data, ect.<p>
 <p>(a picture of the built hardware)<p>
-<h3>2.3 testing</h3>
+<h3>2.3 Software</h3>
+<h4>2.3.1 UI</h4>
+<h3>2.4 Testing</h3>
 
 <h2>3. Results and Discussion</h2>
 <h3>3.1 Results</h3>
