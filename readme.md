@@ -2,11 +2,11 @@
 <h2>1. Introduction</h2>
 <h3>1.1 background</h3>
 <p>Nowadays, as internet became widespread among people, fashion is changing almost every second. 
-Many teenagers, especially girls, have many pieces of clothes, each with their own features. It became a problem that people are entangled in the problem of what to wear daily considering weather and their mood.</p>
+Many teenagers, especially girls, have many pieces of clothes, each with their own features. It became a problem that people are entangled in the problem of what to wear daily considering weather and their mood. Teens are also known as active internet users and they are more likely to follow clothing trends popular on social media. Keeping up with fashiona and wearing similar clothes as peers can increase their sense of belonging within their community.</p>
 <h3>1.2 current approach</h3>
-<p>Along side of the development of internet, online shopping had became more well-rounded, including intelligent cloth recommendation. There are already many programs reccomending clothes for buyers, but none of them can help to determine what to wear under given circumstances. Temporarily, there are no similar products in the market yet.</p>
+<p>Along side of the development of internet, online shopping had became more well-rounded, including intelligent cloth recommendation. There are already many programs reccomending clothes for buyers, in online stores like Amazon and Taobao, buyers will be recommended similar clothes when they decide to purchase one. However, none of these programs can help users to determine what to wear under given circumstances. Temporarily, there are no similar products in the market yet.</p>
 <h3>1.3 objective </h3>
-<p>The purpose of this product is to recommend clothing options to user via virtual assistant. By comparing with big data, it will be able to identify different styles of clothing from social media, and provide valuable suggestions according to local weather, users' mood, and their plans for the day. Also, it will be able to track the user's social media viewing history, following the clothing trend of stars or internet celebrities that the user subscribes.It is expected that it can interact with other intelligent furnitures such as closets to provide information about where to find the recommended clothes. 
+<p> Ideally, BDBVACR will be composed of both hardweare and softwear. The hardware will be connected to personal computers and able to interact with intelligent houseware. The purpose of this product is to recommend clothing options to user via virtual assistant. By comparing with big data, it will be able to identify different styles of clothing from social media, and provide valuable suggestions according to local weather, users' mood, and their plans for the day. Also, it will be able to track the user's social media viewing history, following the clothing trend of stars and internet celebrities that the user subscribes.It is expected that it can interact with other intelligent furnitures such as closets to provide information about where to find the recommended clothes. 
 <h2>2. methodology</h2>
 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/methodology.png)
@@ -47,25 +47,28 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 
 
 <h3>2.2 AI training</h3>
-<h4>2.1.1 AI engine prediction</h4>
+<h4>2.2.1 AI engine prediction</h4>
 <p>Import libraries and load the data downloaded
 <p>build network model
 <h5>define optimizer, training and testing methods</h5>
 <p>every time after training, the program will count the number of errors made during training and the artificial intelligence will refine itself according to the optimizer
-<h4>2.1.2testing and training</h4>
+<h4>2.2.2testing and training</h4>
 <p>call train and test functions
 <p>predict outputs and show pictures
 
+<h3>2.3 CNN network</h3>
+<h3>2.4 Recommendation engine</h3>
   
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/18DB15C8-5E94-4c07-943A-A5E8C41AABF1.png)
 
-<h3>2.3 hardware</h3>
+<h3>2.5 Software</h3>
+<h4>2.5.1 UI</h4>
+<h4>2.5.2 Cloth database with style and location</h4>
+
+<h3>2.6 hardware</h3>
 <p>The building fo the hardware of many parts, the most important part is the virtual assistant. The virtual assistant is responsible for the interaction from acquiring specific information to the end of the whole process of recommending. There are also other parts including the microphone to analyse speaking and the computer used to collect data, ect.<p>
 <p>(a picture of the built hardware)<p>
-<h3>2.3 Software</h3>
-<h4>2.3.1 UI</h4>
-<h4>2.3.1 recommendation engine</h4>
-<h3>2.4 Testing</h3>
+
 
 <h2>3. Results and Discussion</h2>
 <h3>3.1 Results</h3>
