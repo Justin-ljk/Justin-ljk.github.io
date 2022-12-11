@@ -18,9 +18,21 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 <h4>2.1.1 data</h4>
 <p>Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. Zalando intends Fashion-MNIST to serve as a direct drop-in replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.<p>
 <h5>format</h5>
-<p>the pictures provided in the datasets are in "ubyte" format, so it requires a program to interpret them and turn them into visually pictures of clothes which can be distinguished and compared by the AI.
-<h5>tags</h5>
-<p>the tags of different clothes are also included in the dataset, these tags are written in codes, so it requires a program to "translate" them into everyday language that we speak like "ankle boots".<p>
+<p>Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pixels in total. Each pixel has a single pixel-value associated with it, indicating the lightness or darkness of that pixel, with higher numbers meaning darker. This pixel-value is an integer between 0 and 255. The training and test data sets have 785 columns. The first column consists of the class labels (see above), and represents the article of clothing. The rest of the columns contain the pixel-values of the associated image. The pictures provided in the datasets are in "ubyte" format, so it requires a program to interpret them and turn them into visually pictures of clothes which can be distinguished and compared by the AI.
+<h5>labels</h5>
+<p>The labels of different clothes are also included in the dataset, these labels are written in codes, so it requires a program to "translate" them into everyday language that we speak.<p>
+<p>Each training and test example is assigned to one of the following labels:
+
+0 T-shirt/top
+1 Trouser
+2 Pullover
+3 Dress
+4 Coat
+5 Sandal
+6 Shirt
+7 Sneaker
+8 Bag
+9 Ankle boot<p>
 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L001.jpg)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L002.jpg)
