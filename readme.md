@@ -4,10 +4,9 @@
 <p>Nowadays, as internet became widespread among people, fashion is changing almost every second. 
 Many teenagers, especially girls, have many pieces of clothes, each with their own features. It became a problem that people are entangled in the problem of what to wear daily considering weather and their mood.</p>
 <h3>1.2 current approach</h3>
-<p>Along side of the development of internet, online shopping had became more well-rounded, 
-including intelligent cloth recommendation. There are already many programs reccomending clothes for buyers, but none of them can help to determine what to wear under given circumstances. Temporarily, there are no similar products in the market yet.</p>
+<p>Along side of the development of internet, online shopping had became more well-rounded, including intelligent cloth recommendation. There are already many programs reccomending clothes for buyers, but none of them can help to determine what to wear under given circumstances. Temporarily, there are no similar products in the market yet.</p>
 <h3>1.3 objective </h3>
-<p>The purpose of this product is to recommend clothing options to user via virtual assistant. By comparing with big data, it will be able to tell different styles of clothing, and provide valuable suggestions according to local weather, users' mood, and their plans for the day. It is also expected that it can interact with other intelligent furnitures such as closets to provide information about where to find the recommended clothes. The clothing data is mianly collected from social medias, tracking messages and photos posted by stars that the user follow and the user's purchase history.
+<p>The purpose of this product is to recommend clothing options to user via virtual assistant. By comparing with big data, it will be able to identify different styles of clothing from social media, and provide valuable suggestions according to local weather, users' mood, and their plans for the day. Also, it will be able to track the user's social media viewing history, following the clothing trend of stars or internet celebrities that the user subscribes.It is expected that it can interact with other intelligent furnitures such as closets to provide information about where to find the recommended clothes. 
 <h2>2. methodology</h2>
 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/methodology.png)
@@ -15,8 +14,9 @@ including intelligent cloth recommendation. There are already many programs recc
   
 <p>First, the program imports the csv file used to store information about clothes and the 10 clothes pictures being tested. Then the pictures of the clothes are read and resized into a 800*800 pixel square to later fit the recommendation page. Using 'input' function, we acquire necessary information including the style of the cloth and where it will be put from the user. The program will atomatically check if the storgae space is available for the cloth, if yes, an overview of the closets will be showed in the recommendation page and where the cloth is stored will be highlighted. Later, if the user acquires a piece of clothes, then the style and mood of it will be typed in via the input function. If it corresponds to one or maybe several pieces of clothes, the name and location of the clothes will be printed out and their pictures will be shown in the recommendation page.
 
-<h3>2.1 machine learning</h3>
+<h3>2.1 fashion MNIST</h3>
 <h4>2.1.1 data</h4>
+<p>Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. Zalando intends Fashion-MNIST to serve as a direct drop-in replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.<p>
 <h5>format</h5>
 <p>the pictures provided in the datasets are in "ubyte" format, so it requires a program to interpret them and turn them into visually pictures of clothes which can be distinguished and compared by the AI.
 <h5>tags</h5>
@@ -32,21 +32,22 @@ including intelligent cloth recommendation. There are already many programs recc
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L008.jpg)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L009.jpg)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L010.jpg)
-<p>the dataset consisted of two different subsets, training and testing, the function of them perfectly matched their names
+<p>the dataset consisted of two different subsets, training and testing, the function of them perfectly matched their names<p>
+
+<h3>2.2 AI training</h3>
 <h4>2.1.2 AI engine prediction</h4>
-<h5>AI training engine</h5>
 <p>Import libraries and load the data downloaded
 <p>build network model
 <h6>define optimizer, training and testing methods</h6>
 <p>every time after training, the program will count the number of errors made during training and the artificial intelligence will refine itself according to the optimizer
-<h5>testing and training</h5>
+<h4>testing and training</h4>
 <p>call train and test functions
 <p>predict outputs and show pictures
 
   
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/18DB15C8-5E94-4c07-943A-A5E8C41AABF1.png)
 
-<h3>2.2 hardware</h3>
+<h3>2.3 hardware</h3>
 <p>The building fo the hardware of many parts, the most important part is the virtual assistant. The virtual assistant is responsible for the interaction from acquiring specific information to the end of the whole process of recommending. There are also other parts including the microphone to analyse speaking and the computer used to collect data, ect.<p>
 <p>(a picture of the built hardware)<p>
 <h3>2.3 Software</h3>
