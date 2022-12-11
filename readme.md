@@ -23,16 +23,16 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 <p>The labels of different clothes are also included in the dataset, these labels are written in codes, so it requires a program to "translate" them into everyday language that we speak.<p>
 <p>Each training and test example is assigned to one of the following labels:
 
-0 T-shirt/top
-1 Trouser
-2 Pullover
-3 Dress
-4 Coat
-5 Sandal
-6 Shirt
-7 Sneaker
-8 Bag
-9 Ankle boot<p>
+0: T-shirt/top,
+1: Trouser,
+2: Pullover,
+3: Dress,
+4: Coat,
+5: Sandal,
+6: Shirt,
+7: Sneaker,
+8: Bag,
+9: Ankle boot.<p>
 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L001.jpg)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L002.jpg)
