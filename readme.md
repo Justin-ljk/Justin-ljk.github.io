@@ -2,7 +2,7 @@
 <h2>1. Introduction</h2>
 <h3>1.1 background</h3>
 <p>Nowadays, as internet became widespread among people, fashion is changing almost every second. 
-Many teenagers, especially girls, have many pieces of clothes, each with their own features. It became a problem that people are entangled in the problem of what to wear daily considering weather and their mood. Teens are also known as active internet users and they are more likely to follow clothing trends popular on social media. Keeping up with fashiona and wearing similar clothes as peers can increase their sense of belonging within their community.</p>
+Many teenagers, especially girls, have many pieces of clothes, each with their own features.  These clothes each fit different weather and mood, making them hard to choose from. Teens are especially known as active internet users and they are more likely to follow clothing trends popular on social media. Keeping up with fashiona and wearing similar clothes as peers can increase their sense of belonging within their community. It became a problem that people are entangled in the problem of what to wear according to these preconditions.</p>
 <h3>1.2 current approach</h3>
 <p>Along side of the development of internet, online shopping had became more well-rounded, including intelligent cloth recommendation. There are already many programs reccomending clothes for buyers, in online stores like Amazon and Taobao, buyers will be recommended similar clothes when they decide to purchase one. However, none of these programs can help users to determine what to wear under given circumstances. Temporarily, there are no similar products in the market yet.</p>
 <h3>1.3 objective </h3>
