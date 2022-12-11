@@ -58,13 +58,13 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 
 <h3>2.3 CNN network</h3>
 <h3>2.4 Recommendation engine</h3>
-  
+![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/18DB15C8-5E94-4c07-943A-A5E8C41AABF1.png)  
 
 <h3>2.5 Software</h3>
 <h4>2.5.1 UI</h4>
-![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/18DB15C8-5E94-4c07-943A-A5E8C41AABF1.png)
+<p> cloth style&location input<p>
 
-<h4>2.5.2 Cloth database with style and location</h4>
+<h4>2.5.2 Cloth database</h4>
 
 <h3>2.6 hardware</h3>
 <p>The building fo the hardware of many parts, the most important part is the virtual assistant. The virtual assistant is responsible for the interaction from acquiring specific information to the end of the whole process of recommending. There are also other parts including the microphone to analyse speaking and the computer used to collect data, ect.<p>
