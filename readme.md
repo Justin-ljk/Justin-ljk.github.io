@@ -44,15 +44,15 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L008.jpg)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L009.jpg)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/L010.jpg)
-<p>the dataset consisted of two different subsets, training and testing, the function of them perfectly matched their names<p>
+
 
 <h3>2.2 AI training</h3>
-<h4>2.1.2 AI engine prediction</h4>
+<h4>2.1.1 AI engine prediction</h4>
 <p>Import libraries and load the data downloaded
 <p>build network model
-<h6>define optimizer, training and testing methods</h6>
+<h5>define optimizer, training and testing methods</h5>
 <p>every time after training, the program will count the number of errors made during training and the artificial intelligence will refine itself according to the optimizer
-<h4>testing and training</h4>
+<h4>2.1.2testing and training</h4>
 <p>call train and test functions
 <p>predict outputs and show pictures
 
