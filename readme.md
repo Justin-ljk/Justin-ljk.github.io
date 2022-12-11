@@ -59,10 +59,11 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 <h3>2.3 CNN network</h3>
 <h3>2.4 Recommendation engine</h3>
   
-![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/18DB15C8-5E94-4c07-943A-A5E8C41AABF1.png)
 
 <h3>2.5 Software</h3>
 <h4>2.5.1 UI</h4>
+![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/18DB15C8-5E94-4c07-943A-A5E8C41AABF1.png)
+
 <h4>2.5.2 Cloth database with style and location</h4>
 
 <h3>2.6 hardware</h3>
