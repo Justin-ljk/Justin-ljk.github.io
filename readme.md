@@ -10,7 +10,7 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 <h2>2. methodology</h2>
 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/methodology.png)
-<p>The program starts by asking the user what style of clothes through python input function. The answer to these questions are typed in by the user and it will be recorded. Then the program recommend clothes that corresponds to the tags given by the user. The program will also record what clothes are already owned by the user thorugh python lists function and later transfer them into csv files. The clothes recorded will be more favored in the process of recommendation. With respect to the expected weather and popular trend, recommendation will be made. If the user gives a negative feedback, then the product will re-recommend by asking the user more details about the clothing wanted. The tags marked as “dislike” will be avoided in similar situations in the future.<p>
+<p>The program starts by inquiring the user about what style of clothes through python input function. The answer to these questions are typed in by the user and it will be recorded. Then the program recommend clothes that corresponds to the tags given by the user. The program will also record what clothes are already owned by the user thorugh python lists function and later transfer them into csv files. The clothes recorded will be more favored in the process of recommendation. With respect to the expected weather and popular trend, recommendation will be made. If the user gives a negative feedback, then the product will re-recommend by asking the user more details about the clothing wanted. The tags marked as “dislike” will be avoided in similar situations in the future.<p>
   
 <p>First, the program imports the csv file used to store information about clothes and the 10 clothes pictures being tested. Then the pictures of the clothes are read and resized into a 800*800 pixel square to later fit the recommendation page. Using 'input' function, we acquire necessary information including the style of the cloth and where it will be put from the user. The program will atomatically check if the storgae space is available for the cloth, if yes, an overview of the closets will be showed in the recommendation page and where the cloth is stored will be highlighted. Later, if the user acquires a piece of clothes, then the style and mood of it will be typed in via the input function. If it corresponds to one or maybe several pieces of clothes, the name and location of the clothes will be printed out and their pictures will be shown in the recommendation page.
 
@@ -49,24 +49,24 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 <h3>2.2 AI training</h3>
 <h4>2.2.1 AI engine prediction</h4>
 <p>Import libraries and load the data downloaded
-<p>build network model
+<h4>2.2.2 CNN network</h4>
 <h5>define optimizer, training and testing methods</h5>
 <p>every time after training, the program will count the number of errors made during training and the artificial intelligence will refine itself according to the optimizer
-<h4>2.2.2testing and training</h4>
+<h4>2.2.3testing and training</h4>
 <p>call train and test functions
 <p>predict outputs and show pictures
 
-<h3>2.3 CNN network</h3>
-<h3>2.4 Recommendation engine</h3>
+
+<h3>2.3 Recommendation engine</h3>
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/18DB15C8-5E94-4c07-943A-A5E8C41AABF1.png)  
 
-<h3>2.5 Software</h3>
-<h4>2.5.1 UI</h4>
+<h3>2.4 Software</h3>
+<h4>2.4.1 UI</h4>
 <p> cloth style&location input<p>
 
-<h4>2.5.2 Cloth database</h4>
+<h4>2.4.2 Cloth database</h4>
 
-<h3>2.6 hardware</h3>
+<h3>2.5 hardware</h3>
 <p>The building fo the hardware of many parts, the most important part is the virtual assistant. The virtual assistant is responsible for the interaction from acquiring specific information to the end of the whole process of recommending. There are also other parts including the microphone to analyse speaking and the computer used to collect data, ect.<p>
 <p>(a picture of the built hardware)<p>
 
