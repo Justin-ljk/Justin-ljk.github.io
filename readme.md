@@ -34,7 +34,7 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 8: Bag,
 9: Ankle boot.<p>
 
-![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/%E6%97%A0%E6%A0%87%E9%A2%98.png)
+
 
 <h3>2.2 AI training</h3>
 <h4>2.2.1 AI engine prediction</h4>
@@ -48,6 +48,7 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 
 
 <h3>2.3 Recommendation engine</h3>
+![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/%E6%97%A0%E6%A0%87%E9%A2%98.png)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/18DB15C8-5E94-4c07-943A-A5E8C41AABF1.png)  
 
 <h3>2.4 Software</h3>
