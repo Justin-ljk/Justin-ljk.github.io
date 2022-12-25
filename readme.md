@@ -38,8 +38,9 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 <h4>2.1.2 Show contents</h4>
 <p>Programming using function openCV, I could display all the pictures of the clothes in the dataset and print their labels.<p>
 <p>The reaults are as follows.<p>
-  
+ 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/digi.png)
+![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/methodology.png)
 
 <h3>2.2 AI training</h3>
 <h4>2.2.1 AI engine prediction</h4>
