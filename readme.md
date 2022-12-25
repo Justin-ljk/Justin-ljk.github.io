@@ -35,8 +35,8 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 8: Bag,
 9: Ankle boot.<p>
 
-<h4>2.1.2 Show contents</h4>
-<p>Programming using function openCV, I could display all the pictures of the clothes in the dataset and print their labels.<p>
+<h4>2.1.2 Show contents and labels</h4>
+<p>The 4th to 7th byte of the training dataset is the number of labels. Every byte after that is a label ranging from 1 to 9. After reading the contents of the dataset, all the pictures of the clothes in the dataset can be shown using function openCV.<p>
 <p>The reaults are as follows.<p>
  
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/digi.png)
