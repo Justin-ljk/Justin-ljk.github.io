@@ -43,13 +43,12 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/programming%20drawio.png)
 
 <h3>2.2 AI training</h3>
-<h4>2.2.1 AI engine prediction</h4>
-<p>Import libraries and load the data downloaded
+<h4>2.2.1 Preprocessing</h4>
+<p>First, all necessary libraries(mainly torch) are loaded. The hyperparameters are defined to regulate the amount of info being processed every batch and the number of rounds of the training data. Next, the pipeline for image processing is built and the data downloaded is processed. After loading both data sets, the pictures in them are displayed and saved.
 <h4>2.2.2 CNN network</h4>
-<h5>define optimizer, training and testing methods</h5>
-<p>every time after training, the program will count the number of errors made during training and the artificial intelligence will refine itself according to the optimizer
-<h4>2.2.3testing and training</h4>
-<p>call train and test functions
+<p>After everythings id done preprocessing, the CNN network model can be built. It is programmed that it will call the structure of its parent class and inherit the parent class's properties. The network model will calculate the probability of cloth belonging to every sort and the label with highest probability will be the out put. The optimizer is defined so that the AI engine can evolve to a higher accuracy after every training.
+<h4>2.2.3 Testing and Training</h4>
+<p>
 <p>predict outputs and show pictures
 
 
