@@ -48,7 +48,11 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 <h4>2.2.2 CNN network</h4>
 <p>After everythings id done preprocessing, the CNN network model can be built. It is programmed that it will call the structure of its parent class and inherit the parent class's properties. The network model will calculate the probability of cloth belonging to every sort and the label with highest probability will be the out put. The optimizer is defined so that the AI engine can evolve to a higher accuracy after every training.
 <h4>2.2.3 Testing and Training</h4>
-<p>In the training process, the pictures in the training set are first revised into MNIST single color format and then imported into the model. The model will decide which style it belongs to and then compare the results with the answers provided in the training set. The model will improve itself again and again through the training process and the trained model will be saved. 
+<p>In the training process, the pictures in the training set are first revised into MNIST single color format and then imported into the model. The model will decide which style it belongs to and then compare the results with the answers provided in the training set. The model will improve itself again and again through the training process and the trained model will be saved.<p> 
+
+![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/testing%20drawio.png)
+![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/training%20drawio.png)
+
 <p>For testing, the revised picture will be imported and the model will compare it with other pictures whoes styles are know. After comparing, the model will give a series of numbers presenting the possibility of the cloth in the picture belonging to different styles. The style with highest possibility will be the prediction result.
 <p>predict outputs and show pictures<p>
 
@@ -57,8 +61,7 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 
 <h3>2.3 Recommendation engine</h3>
 
-![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/testing%20drawio.png)
-![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/training%20drawio.png)
+
 
 
 <h3>2.4 Software</h3>
