@@ -57,11 +57,10 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 <p>predict outputs and show pictures<p>
 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/methodology.png)
-![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/methodology.png)
 
 <h3>2.3 Recommendation engine</h3>
 
-
+![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/cvimgshow.png)
 
 
 <h3>2.4 Software</h3>
