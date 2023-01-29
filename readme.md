@@ -63,7 +63,7 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/cvimgshow.png)
 <p> When the user needs to provide necessary info about the clothes before a new piece of clothes can be put into the closet. After the user has decide wher the cloth should be put, the system will decide if the position is available. If it is available, then the information about the clothes will be saved in a csv file and the cloth will be stored. If the location is unavailable or doesn't exist, the program will return an error. The information about the clothes and their pictures will be shown in the user interface later. this is a rendering for the UI.<p>
 
-![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/cvimgshow.png)
+![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/example.png)
 
   
 <h3>2.4 Software</h3>
