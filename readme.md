@@ -1,5 +1,7 @@
-![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/1st%20picture.png)
+
 <h1>Heading  1</h1>
+
+![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/1st%20picture.png)
 <h2>1. Introduction</h2>
 <h3>1.1 background</h3>
 <p>Nowadays, as internet became widespread among people, fashion is changing almost every second. 
@@ -76,6 +78,8 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 
 <h4>2.4.2 Cloth database</h4>
 
+![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/cloth%20database.png)
+<p>For now, the collected information about the clothes are stored in cvs files. The first two columns are the location where a piece of cloth is stored, the third colummn is style, fourth is suitable weather and column five is its corresponding mood.
 <h3>2.5 hardware</h3>
 <p>The building fo the hardware of many parts, the most important part is the virtual assistant. The virtual assistant is responsible for the interaction from acquiring specific information to the end of the whole process of recommending. There are also other parts including the microphone to analyse speaking and the computer used to collect data, ect.<p>
 <p>(a picture of the built hardware)<p>
