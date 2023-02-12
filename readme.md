@@ -71,6 +71,7 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 <h4>2.4.1 UI</h4>
 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/UI.png)
+<p> the user interface allows users to store in their new clothes after purchasing. First, the photos of the clothes are taken. Then the AI willlcompare it with pictures of clothes online to determine what clothes they are and automatically fill in their information. If their is an error with the AI, the users can allso choose to enter the info themselves. Then they will decide where to put these clothes. After the storage space is confirmed, the process is done and information will be saved.
 <p> cloth style&location input<p>
 
 <h4>2.4.2 Cloth database</h4>
@@ -82,7 +83,7 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 
 <h2>3. Results and Discussion</h2>
 <h3>3.1 Results</h3>
-<h4>3.1.1 Data Collection</h4>
+<h4>3.1.1 Data Collection</h4>.
 <p>Through the web crawler, the product will be able to collect (this much) data from (social medias), it can also (whatever function).
 <h4>3.1.1 Data analysis</h4>
 <p>Using the AI we previously trained, the data collected from the social media will be analysised and sorted into many categories. (actual results) (errors?)
