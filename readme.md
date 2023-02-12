@@ -79,7 +79,11 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 <h4>2.4.2 Cloth database</h4>
 
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/cloth%20database.png)
-<p>For now, the collected information about the clothes are stored in cvs files. The first two columns are the location where a piece of cloth is stored, the third colummn is style, fourth is suitable weather and column five is its corresponding mood.
+<p>In the programs, several batabases are used for information saving. For now, the collected information about the clothes are stored in cvs files. The first two columns are the location where a piece of cloth is stored, the third colummn is style, fourth is suitable weather and column five is its corresponding mood.
+  
+![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/database2.png)
+<p>This csv file is a database also for stored clothes but without locations. When their IDs are typed into the program, their style, temp, mood ect will be returned.
+
 <h3>2.5 hardware</h3>
 <p>The building fo the hardware of many parts, the most important part is the virtual assistant. The virtual assistant is responsible for the interaction from acquiring specific information to the end of the whole process of recommending. There are also other parts including the microphone to analyse speaking and the computer used to collect data, ect.<p>
 <p>(a picture of the built hardware)<p>
