@@ -69,6 +69,7 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
   
 <h3>2.4 Software</h3>
 <h4>2.4.1 UI</h4>
+
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/UI.png)
 <p> cloth style&location input<p>
 
