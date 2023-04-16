@@ -85,7 +85,7 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 <p>This csv file is a database also for stored clothes but without locations. When their IDs are typed into the program, their style, temp, mood ect will be returned.
 
 <h3>2.5 hardware</h3>
-<p>The building fo the hardware of many parts, the most important part is the virtual assistant. The virtual assistant is responsible for the interaction from acquiring specific information to the end of the whole process of recommending. There are also other parts including the microphone to analyse speaking and the computer used to collect data, ect. For the closet part, I plan to install steering gear in them. The users don't have to look for the clothes themselves, instead, the closet will take them out automatically.<p>
+<p>The building fo the hardware of many parts, the most important part is the virtual assistant. The virtual assistant is responsible for the interaction from acquiring specific information to the end of the whole process of recommending. There are also other parts including the microphone to analyse speaking and the computer used to collect data, ect. For the closet part, I plan to install steering gear in them. The users don't have to look for the clothes themselves, instead, the closet will take them out automatically. Modeling using 123Design, I created the model of the closet adn the steering gears. After a command is given by user, Raspberry Pi will activate the steering gears through Arduino to take out or take back specific clothes.<p>
 <p>(a picture of the built hardware)<p>
 
 
