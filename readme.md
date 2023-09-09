@@ -93,8 +93,8 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/IMG_20230416_092528.jpg)
 
 
-<h2>4. Conclusion</h2>
-<h3>4.1 Does it reach my ultimate purpose?</h3>
+<h2>3. Conclusion</h2>
+<h3>3.1 Does it reach my ultimate purpose?</h3>
 <p>I would ay that this project effectively achieved my ultimate purpose. It can collect data through web crawler and should be able to transfer specific clothes according to command if really built. Compared with my purpose, It still has a lot of improvements to be made, but it already achieved its core function, which is to compare clothes and give similar results through AI.
-<h3>4.2 Future Possibilities</h3>
+<h3>3.2 Future Possibilities</h3>
 <p>Though I'm satisfied with my current product, I believe much future improvements can be made. ......
