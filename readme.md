@@ -92,19 +92,9 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/servo.png)
 ![](https://github.com/Justin-ljk/Justin-ljk.github.io/blob/main/IMG_20230416_092528.jpg)
 
-<h2>3. Results and Discussion</h2>
-<h3>3.1 Results</h3>
-<h4>3.1.1 Data Collection</h4>.
-<p>Through the web crawler, the product will be able to collect (this much) data from (social medias), it can also (whatever function).
-<h4>3.1.1 Data analysis</h4>
-<p>Using the AI we previously trained, the data collected from the social media will be analysised and sorted into many categories. (actual results) (errors?)
-<h4>3.1.1 Recommendation</h4>
-<p>During the process of recommendation, the clothing that user already has or from a social media that the user follows will be valued higher than others. (actual results)
-<h3>3.2 Comparsion with Expectation</h3>
-<p>One thing I have expected but can't be realized yet is the automatic recording of the location of the clothes. This process involves detecing the taking out and putting in of every single cloth. I've done basic programming of this function, which includes the recording clothes input and searching for specific clothes. However,  I hadn't find the right hardware and match it with my programs yet.
 
 <h2>4. Conclusion</h2>
 <h3>4.1 Does it reach my ultimate purpose?</h3>
-<p>I would ay that this project effectively achieved/didn't achiheve my ultimate purpose. It......through/because...... Compared with my purpose, 
+<p>I would ay that this project effectively achieved my ultimate purpose. It can collect data through web crawler and should be able to transfer specific clothes according to command if really built. Compared with my purpose, It still has a lot of improvements to be made, but it already achieved its core function, which is to compare clothes and give similar results through AI.
 <h3>4.2 Future Possibilities</h3>
 <p>Though I'm satisfied with my current product, I believe much future improvements can be made. ......
