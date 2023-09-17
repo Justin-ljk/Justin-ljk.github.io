@@ -95,6 +95,6 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 
 <h2>3. Conclusion</h2>
 <h3>3.1 Does it reach my ultimate purpose?</h3>
-<p>I would ay that this project effectively achieved my ultimate purpose. It can collect data through web crawler and should be able to transfer specific clothes according to command if really built. Compared with my purpose, It still has a lot of improvements to be made, but it already achieved its core function, which is to compare clothes and give similar results through AI.
+<p>I would ay that this project effectively achieved my ultimate purpose. It can ... through... . Compared with my purpose, It still has a lot of improvements to be made, .
 <h3>3.2 Future Possibilities</h3>
 <p>Though I'm satisfied with my current product, I believe much future improvements can be made. ......
