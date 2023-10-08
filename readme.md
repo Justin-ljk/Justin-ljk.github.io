@@ -94,7 +94,9 @@ Many teenagers, especially girls, have many pieces of clothes, each with their o
 
 
 <h2>3. Conclusion</h2>
-<h3>3.1 Does it reach my ultimate purpose?</h3>
-<p>I would ay that this project effectively achieved my ultimate purpose. It can ... through... . Compared with my purpose, It still has a lot of improvements to be made, .
-<h3>3.2 Future Possibilities</h3>
-<p>Though I'm satisfied with my current product, I believe much future improvements can be made. ......
+<p>To build this project, various types of work including python programming, AI training and hardware constructing have been done. Using Pytorch and other libraries, the data will be preprocessed before feeding to the AI. The CNN network (Convolutional neural network) trained by Fashion-MNIST can identify labels of clothes through pictures with high accuracy. The web crawler is also used to collect picture and information from the internet. The information collected is stored in csv files currently. As the project is designed modularly, Python had been a great tool in integrating different parts of it. Mind maps are also used to help me by organizing my thoughts and presenting the theories behind the project. 
+
+The overall structure of the hardware is designed by 3D modeling. Then the parts are either laser cut or 3D printed according to their shape and size. The built model of the smart closet had plenty of space for different parts including servos and hangers to be installed. The hardware parts were also tested. Connected to Arduino, the specific servos can successfully react to the commands from the user accordingly.
+
+Though the project had already achieved my purpose successfully, I believe that there are much more improvements to be made. First, the training dataset and my web crawler can be connected so the AI has access to the newest fashion over the world, re-examining its accuracy. Also, there must be better ways, say MySQL database, to store information about clothing pictures except csv files that I can utilize.
+
